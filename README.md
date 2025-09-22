@@ -1,6 +1,7 @@
 # 💻 Meus primeiros códigos em C
 ---
-Bem-vindo ao meu repositório de aprendizado! Este espaço contém meus primeiros passos na programação com a linguagem C, desenvolvidos como parte da disciplina de **Introdução à Programação** do **INF-UFG** (Instituto de Informática da Universidade Federal de Goiás), ministrada pelo **Prof. Dr. Gustavo Teodoro Laureano**. Aqui você encontrará exercícios, exemplos e anotações da minha jornada inicial em lógica de programação.
+Bem-vindo ao meu repositório de aprendizado! 
+Este espaço contém meus primeiros passos na programação com a linguagem C, desenvolvidos como parte da disciplina de **Introdução à Programação** do **INF-UFG** (Instituto de Informática da Universidade Federal de Goiás), ministrada pelo **Prof. Dr. Gustavo Teodoro Laureano**. Aqui você encontrará exercícios, exemplos e anotações da minha jornada inicial em lógica de programação.
  
 ## 🛠️ Como Compilar e Executar
 
